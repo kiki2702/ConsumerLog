@@ -1,0 +1,14 @@
+D:\project\ConsumerLog\ConsumerLog\bin\Debug\netcoreapp2.1\ConsumerLog.deps.json
+D:\project\ConsumerLog\ConsumerLog\bin\Debug\netcoreapp2.1\ConsumerLog.runtimeconfig.json
+D:\project\ConsumerLog\ConsumerLog\bin\Debug\netcoreapp2.1\ConsumerLog.runtimeconfig.dev.json
+D:\project\ConsumerLog\ConsumerLog\bin\Debug\netcoreapp2.1\ConsumerLog.dll
+D:\project\ConsumerLog\ConsumerLog\obj\Debug\netcoreapp2.1\ConsumerLog.csprojAssemblyReference.cache
+D:\project\ConsumerLog\ConsumerLog\obj\Debug\netcoreapp2.1\ConsumerLog.csproj.CoreCompileInputs.cache
+D:\project\ConsumerLog\ConsumerLog\obj\Debug\netcoreapp2.1\ConsumerLog.RazorAssemblyInfo.cache
+D:\project\ConsumerLog\ConsumerLog\obj\Debug\netcoreapp2.1\ConsumerLog.RazorAssemblyInfo.cs
+D:\project\ConsumerLog\ConsumerLog\obj\Debug\netcoreapp2.1\ConsumerLog.AssemblyInfoInputs.cache
+D:\project\ConsumerLog\ConsumerLog\obj\Debug\netcoreapp2.1\ConsumerLog.AssemblyInfo.cs
+D:\project\ConsumerLog\ConsumerLog\obj\Debug\netcoreapp2.1\ConsumerLog.RazorTargetAssemblyInfo.cache
+D:\project\ConsumerLog\ConsumerLog\bin\Debug\netcoreapp2.1\ConsumerLog.pdb
+D:\project\ConsumerLog\ConsumerLog\obj\Debug\netcoreapp2.1\ConsumerLog.dll
+D:\project\ConsumerLog\ConsumerLog\obj\Debug\netcoreapp2.1\ConsumerLog.pdb
